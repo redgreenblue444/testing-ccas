@@ -207,17 +207,45 @@ def get_owned_pages(client: NotionClient) -> List[Dict]:
 
 def main():
     """Main function to list and summarize Notion documents."""
-    api_key = os.getenv("NOTION_API_KEY")
+    # Try multiple environment variable names for the API key/secret
+    # Check all possible variations
+    api_key = None
+    env_vars_to_check = [
+        "notion_api_secret",
+        "NOTION_API_SECRET", 
+        "NOTION_API_KEY",
+        "notion_api_key",
+        "NOTION_SECRET",
+        "notion_secret"
+    ]
+    
+    for var_name in env_vars_to_check:
+        api_key = os.getenv(var_name)
+        if api_key:
+            print(f"Using API key from: {var_name}")
+            break
     
     if not api_key:
-        print("Error: NOTION_API_KEY environment variable not set.")
-        print("\nTo use this script:")
-        print("1. Create a Notion integration at https://www.notion.so/my-integrations")
-        print("2. Copy the Internal Integration Token")
-        print("3. Share the pages you want to access with your integration")
-        print("4. Set the token: export NOTION_API_KEY='your_token_here'")
-        print("5. Run this script again")
-        return
+        # Try checking all environment variables for anything containing 'notion'
+        all_env = dict(os.environ)
+        notion_vars = {k: v[:10] + "..." if len(v) > 10 else v 
+                      for k, v in all_env.items() 
+                      if 'notion' in k.lower()}
+        
+        if notion_vars:
+            print(f"Found Notion-related env vars: {list(notion_vars.keys())}")
+            # Try the first one
+            api_key = list(notion_vars.values())[0]
+        else:
+            print("Error: Notion API secret/key not found.")
+            print(f"Checked for: {', '.join(env_vars_to_check)}")
+            print("\nTo use this script:")
+            print("1. Create a Notion integration at https://www.notion.so/my-integrations")
+            print("2. Copy the Internal Integration Token")
+            print("3. Share the pages you want to access with your integration")
+            print("4. Set the token: export notion_api_secret='your_token_here'")
+            print("5. Run this script again")
+            return
     
     try:
         client = NotionClient(api_key)
