@@ -1,0 +1,442 @@
+Using API key from: notion_api_secret
+Fetching your Notion pages...
+
+Found 20 page(s):
+
+================================================================================
+
+================================================================================
+1. Test Page
+================================================================================
+   URL: https://www.notion.so/Test-Page-2a963f19bfc18049b319e509ede2f691
+   Created: 2025-11-12T15:54:00.000Z
+   Last Edited: 2025-11-12T15:55:00.000Z
+
+   📊 Statistics:
+      • Word count: 4
+      • Character count: 17
+      • Block count: 2
+      • Block types: paragraph: 2
+
+   📝 Content Summary:
+      The answer is 42.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+2. Sub Page
+================================================================================
+   URL: https://www.notion.so/Sub-Page-2d1f665ff3344ac79d6a933c6dc6fd3d
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:43:00.000Z
+
+   📊 Statistics:
+      • Word count: 0
+      • Character count: 39
+      • Block count: 3
+      • Block types: paragraph: 2, child_database: 1
+
+   📝 Content Summary:
+      🗄️ Database: Branson Trip - August 2022
+
+--------------------------------------------------------------------------------
+
+================================================================================
+3. Dog Days of Summer
+================================================================================
+   URL: https://www.notion.so/Dog-Days-of-Summer-c53a1e82737d4489ba711d0e947f8114
+   Created: 2022-08-21T03:39:00.000Z
+   Last Edited: 2022-08-21T03:40:00.000Z
+
+   📊 Statistics:
+      • Word count: 0
+      • Character count: 0
+      • Block count: 0
+
+   📝 Content Summary:
+      No content found.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+4. Miniature Golf 
+================================================================================
+   URL: https://www.notion.so/Miniature-Golf-29284001badd4a078f79b8995b66da73
+   Created: 2022-08-21T03:37:00.000Z
+   Last Edited: 2022-08-21T03:38:00.000Z
+
+   📊 Statistics:
+      • Word count: 0
+      • Character count: 0
+      • Block count: 0
+
+   📝 Content Summary:
+      No content found.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+5. Hawaii Vacation
+================================================================================
+   URL: https://www.notion.so/Hawaii-Vacation-21065e349bf247bc9714d2283dc1c10a
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 12
+      • Character count: 91
+      • Block count: 11
+      • Block types: heading_1: 4, numbered_list_item: 4, to_do: 2, paragraph: 1
+
+   📝 Content Summary:
+      # Intentions
+      • ...
+      • ...
+      # Happenings
+      # Grateful for
+      • ...
+      • ...
+      # Action items
+      ☐ ...
+      ☐ ...
+
+--------------------------------------------------------------------------------
+
+================================================================================
+6. New Task
+================================================================================
+   URL: https://www.notion.so/New-Task-4ecec0f2fcbb4201981da9fbdb1a1eb1
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 4
+      • Character count: 19
+      • Block count: 3
+      • Block types: to_do: 2, heading_1: 1
+
+   📝 Content Summary:
+      # To Do
+      ☐ ...
+      ☐ ...
+
+--------------------------------------------------------------------------------
+
+================================================================================
+7. Daily Entry
+================================================================================
+   URL: https://www.notion.so/Daily-Entry-62603a01e8984e6f9452aead30b4a804
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 6
+      • Character count: 55
+      • Block count: 8
+      • Block types: heading_1: 4, numbered_list_item: 2, paragraph: 1, to_do: 1
+
+   📝 Content Summary:
+      # Intentions
+      # Happenings
+      # Grateful for
+      # Action items
+
+--------------------------------------------------------------------------------
+
+================================================================================
+8. Untitled
+================================================================================
+   URL: https://www.notion.so/8d33fca7f1f34668a4e179db31fb9cae
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 3
+      • Character count: 19
+      • Block count: 3
+      • Block types: to_do: 2, heading_1: 1
+
+   📝 Content Summary:
+      # Tasks
+      ☐ ...
+      ☐ ...
+
+--------------------------------------------------------------------------------
+
+================================================================================
+9. Take Fig on a walk
+================================================================================
+   URL: https://www.notion.so/Take-Fig-on-a-walk-b66cd6d0fb5e44da9f59fd7d3a45ae38
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 0
+      • Character count: 0
+      • Block count: 0
+
+   📝 Content Summary:
+      No content found.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+10. Just another day
+================================================================================
+   URL: https://www.notion.so/Just-another-day-bba0b3bfa07a4ad3bcb628ac51622614
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 38
+      • Character count: 246
+      • Block count: 14
+      • Block types: numbered_list_item: 6, heading_1: 4, to_do: 2, callout: 1, paragraph: 1
+
+   📝 Content Summary:
+      💡 Notion Tip: Create a new page and select Daily Entry from the list of template options to automatically generate the format below every day.
+      # Intentions
+      • ...
+      • ...
+      • ...
+      # Happenings
+      # Grateful for
+      • ...
+      • ...
+      • ...
+      # Action items
+      ☐ ...
+      ☐ ...
+
+--------------------------------------------------------------------------------
+
+================================================================================
+11. Personal Home
+================================================================================
+   URL: https://www.notion.so/Personal-Home-0b6bd848227d49e18bb23a24c077d3f0
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 8
+      • Character count: 46
+      • Block count: 2
+      • Block types: paragraph: 1, column_list: 1
+
+   📝 Content Summary:
+      Organize everything in your life in one place.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+12. Europe Trip
+================================================================================
+   URL: https://www.notion.so/Europe-Trip-361fb18e4f2c479a9f236309fb80cd06
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 10
+      • Character count: 60
+      • Block count: 8
+      • Block types: bulleted_list_item: 6, heading_2: 2
+
+   📝 Content Summary:
+      ## Things to do
+      • ...
+      • ...
+      • ...
+      ## Notes
+      • ...
+      • ...
+      • ...
+
+--------------------------------------------------------------------------------
+
+================================================================================
+13. The contribution of neural networks and genetic algorithms to business decision support 
+================================================================================
+   URL: https://www.notion.so/The-contribution-of-neural-networks-and-genetic-algorithms-to-business-decision-support-48d0fcfc29b64f43945521dcedafadd4
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 196
+      • Character count: 1,412
+      • Block count: 1
+      • Block types: paragraph: 1
+
+   📝 Content Summary:
+      Author(s):Abstract:Managing large amounts of information and efficiently using this information in improved decision making has become increasingly challenging as businesses collect terabytes of data. Intelligent solutions, based on neural networks (NNs) and genetic algorithms (GAs), to solve complicated practical problems in various sectors are becoming more and more widespread nowadays. The current study provides an overview for the operations researcher of the neural networks and genetic algorithms methodology, as well as their historical and current use in business. The main aim is to present and focus on the wide range of business areas of NN and GA applications, avoiding an in‐depth analysis of all the applications – with varying success – recorded in the literature. This review reveals that, although still regarded as a novel methodology, NN and GA are shown to have matured to the point of offering real practical benefits in many of their applications.Keywords: Type: Literature reviewPublisher: Emerald Group Publishing LimitedCopyright:Citation: Kostas Metaxiotis, John Psarras, (2004) "The contribution of neural networks and genetic algorithms to business decision support: Academic myth or practical solution?", Management Decision, Vol. 42 Issue: 2, pp.229-242, https://doi.org/10.1108/00251740410518534Downloads: The fulltext of this document has been downloaded 1671 times since 2012
+
+--------------------------------------------------------------------------------
+
+================================================================================
+14. The Daily
+================================================================================
+   URL: https://www.notion.so/The-Daily-4d53f291af9543e7af43d442b82ef104
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 0
+      • Character count: 0
+      • Block count: 0
+
+   📝 Content Summary:
+      No content found.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+15. Reading List 
+================================================================================
+   URL: https://www.notion.so/Reading-List-61d3f4d398e148879b8dfdfe87e77668
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 94
+      • Character count: 533
+      • Block count: 4
+      • Block types: callout: 3, child_database: 1
+
+   📝 Content Summary:
+      📚 The modern day reading list includes more than just books. We've created a dashboard to help you track books, articles, podcasts, and videos. Each media type has its own view based on the Type property.
+      Change your views to sort content by status, author, type, or publisher ✓
+      Rate content out of 5 stars ✓
+      ✂️ One more thing... if you install Notion Web Clipper, you can save pages and links off the web directly to these lists.
+      👇 Click on Articles to see what other views might have in store or add your own ✨
+      🗄️ Database: Media
+
+--------------------------------------------------------------------------------
+
+================================================================================
+16. Vegetable Lo Mein for Two
+================================================================================
+   URL: https://www.notion.so/Vegetable-Lo-Mein-for-Two-740e7278531d4fc4bc898a37adf322b7
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 160
+      • Character count: 983
+      • Block count: 17
+      • Block types: bulleted_list_item: 11, numbered_list_item: 4, heading_2: 2
+
+   📝 Content Summary:
+      ## Ingredients
+      • 4 ounces Chinese noodles (1/2 package)
+      • 1 Tablespoon oyster sauce
+      • 1/2 teaspoon sesame oil
+      • 1 Tablespoon dark soy sauce
+      • 1 Tablespoon light (regular) soy sauce
+      • 1 1/2 Tablespoons vegetable oil
+      • 1/2 yellow onion, thinly sliced
+      • 2 garlic cloves, thinly sliced
+      • 1 cup shredded carrots (2 medium)
+      • 1 bell pepper, thinly sliced
+      • 3-4 ounces snow peas
+      ## Instructions
+      • Boil a large pot of water; cook Chinese noodles for 1-2 minutes, stirring to unfold. Drain, rinse, and set aside.
+      • In a small bowl, whisk together oyster sauce, sesame oil, and soy sauces. Set aside.
+      • In a wok, heat vegetable oil over medium heat. Add onion slices and cook for 4-5 minutes until tender. Add garlic, continuing to stir for 1 minute as it becomes fragrant. Add carrots, bell pepper, and snow peas. Cook for 4-5 minutes until tender.
+      • Add cooked noodles, sauce, and stir to coat. Continue to cook for 2 minutes until noodles are cooked through and sauce is distributed evenly.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+17. Movie List
+================================================================================
+   URL: https://www.notion.so/Movie-List-8f80743ba2244f2c9f06c5e370d4224a
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 0
+      • Character count: 0
+      • Block count: 1
+      • Block types: column_list: 1
+
+   📝 Content Summary:
+      No content found.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+18. Yearly Goals
+================================================================================
+   URL: https://www.notion.so/Yearly-Goals-c2561873ddfd42b8bc71049ea4d877ae
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 0
+      • Character count: 0
+      • Block count: 3
+      • Block types: bulleted_list_item: 3
+
+   📝 Content Summary:
+      No content found.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+19. Quick Note
+================================================================================
+   URL: https://www.notion.so/Quick-Note-788de5aea94c4f97be5d0089521b736f
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 64
+      • Character count: 662
+      • Block count: 16
+      • Block types: heading_1: 4, divider: 4, to_do: 3, paragraph: 2, bookmark: 2
+
+   📝 Content Summary:
+      Quickly create a rich document.
+      # Jot down some text
+      ---
+      They found Mary, as usual, deep in the study of thorough-bass and human nature; and had some extracts to admire, and some new observations of threadbare morality to listen to. Catherine and Lydia had information for them of a different sort.
+      # Make a to-do list
+      ---
+      ☐ Wake up
+      ☐ Eat breakfast
+      ☑ Brush teeth
+      # Create sub-pages
+      ---
+      📄 Sub-page: Sub Page
+      # Embed links
+      ---
+      🔖 Bookmark: https://www.nytimes.com/2018/03/08/arts/chicago-museums-art.html?rref=collection%2Fsectioncollection%2Ftravel
+      🔖 Bookmark: https://www.nytimes.com/2018/03/12/travel/havana-cuba.html?rref=collection%2Fsectioncollection%2Ftravel
+
+--------------------------------------------------------------------------------
+
+================================================================================
+20. Getting Started
+================================================================================
+   URL: https://www.notion.so/Getting-Started-96badec14d10487196db2c54b04ab2e7
+   Created: 2022-08-21T03:36:00.000Z
+   Last Edited: 2022-08-21T03:36:00.000Z
+
+   📊 Statistics:
+      • Word count: 129
+      • Character count: 661
+      • Block count: 12
+      • Block types: to_do: 6, paragraph: 5, toggle: 1
+
+   📝 Content Summary:
+      👋 Welcome to Notion!
+      Here are the basics:
+      ☐ Click anywhere and just start typing
+      ☐ Hit / to see all the types of content you can add - headers, videos, sub pages, etc.
+      ☐ Highlight any text, and use the menu that pops up to style your writing however you like
+      ☐ See the ⋮⋮ to the left of this checkbox on hover? Click and drag to move this line
+      ☐ Click the + New Page button at the bottom of your sidebar to add a new page
+      ☐ Click Templates in your sidebar to get started with pre-built pages
+      ▶ This is a toggle block. Click the little triangle to see more useful tips!
+      👉 Have a question? Click the ? at the bottom right for more guides, or to send us a message.
+
+--------------------------------------------------------------------------------
